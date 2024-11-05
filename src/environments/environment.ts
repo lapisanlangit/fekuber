@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'http://localhost/wsbekuber/',
+  apiUrl: 'http://10.100.44.72/wsbekuber/',
   //apiUrl: 'http://127.0.0.1:3001/',
 
 };
