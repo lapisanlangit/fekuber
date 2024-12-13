@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'http://10.191.12.77/wsbekuber/',
+  apiUrl: 'http://192-168-185-207.nip.io/api/',
   // apiUrl: 'http://10.100.44.72:5001/',
 };
 
